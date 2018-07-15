@@ -1,2 +1,2 @@
 # Java playground
-This repository contains examples of Java language features.
+This repository contains examples of Java standard library and language features.
